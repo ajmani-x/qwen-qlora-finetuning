@@ -1,0 +1,9 @@
+# Install in a CUDA-enabled Google Colab runtime.
+# Tested originally with Colab-installed package versions; exact versions were not pinned.
+transformers
+accelerate
+bitsandbytes
+peft
+datasets
+trl
+huggingface_hub
